@@ -1,0 +1,88 @@
+[33mcommit bdd5885af471dda8bb4071758890252183d6486d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: rsac1990 <ricardo.alarcon@outlook.com>
+Date:   Sat May 23 21:07:29 2020 -0500
+
+    Cambie el titulo del blogpost
+    
+    Porque quiero
+
+[33mcommit 00e266d5d1d790d64d94673b720ae83222176203[m
+Merge: 4caa5b3 cbc2dc5
+Author: Ricardo <ricardo.alarcon@outlook.com>
+Date:   Sat May 23 21:00:44 2020 -0500
+
+    Merge branch 'master' of https://github.com/rsac1990/hyperblog
+    Union de mi proyecto con el repositorio remoto
+
+[33mcommit cbc2dc5f14d9dc689b304a142dbcdf76496e852e[m
+Author: rsac1990 <ricardo.alarcon@outlook.com>
+Date:   Sat May 23 20:49:34 2020 -0500
+
+    Initial commit
+
+[33mcommit 4caa5b35aa45934fcbdddc4644ad1ff2f5dbf0b6[m[33m ([m[1;32mcabecera[m[33m)[m
+Merge: 043e824 20167eb
+Author: Ricardo <ricardo.alarcon@outlook.com>
+Date:   Sat May 23 19:26:38 2020 -0500
+
+    solucione los conflictos y uni la rama cabecera al master
+
+[33mcommit 20167eb3bb6266b279c9912dab5ff4187f3cff18[m
+Author: Ricardo <ricardo.alarcon@outlook.com>
+Date:   Sat May 23 18:52:16 2020 -0500
+
+    quite el parrafo de contenido del blogpost para que se note el cambio en el merge
+
+[33mcommit 043e824e51bad66af959fe7a1ae44f1194a22569[m
+Author: Ricardo <ricardo.alarcon@outlook.com>
+Date:   Sat May 23 18:49:57 2020 -0500
+
+    agregado el contenido adicional del blog y otra tipografia
+
+[33mcommit e50a636921f5268ed849850386bd73ae02f38372[m
+Author: Ricardo <ricardo.alarcon@outlook.com>
+Date:   Sat May 23 18:47:43 2020 -0500
+
+    finalizada la cabecera con diseño azul
+
+[33mcommit 42408e163b38bd0055d2b62cad808e732d886a43[m
+Author: Ricardo <ricardo.alarcon@outlook.com>
+Date:   Wed May 20 19:01:40 2020 -0500
+
+    estructura inicial de la cabecera
+
+[33mcommit 12c6711213950bf1ea7eaace9ad7c9c8809d2bd9[m
+Author: Ricardo <ricardo.alarcon@outlook.com>
+Date:   Wed May 20 18:55:24 2020 -0500
+
+    commit al master del blogpost en su version mas reciente
+
+[33mcommit 275702dd2b26deeaf445ff9d96cb3b34fcbf29fb[m
+Author: Ricardo <ricardo.alarcon@outlook.com>
+Date:   Wed May 20 18:06:33 2020 -0500
+
+    cambios de su maestria
+
+[33mcommit f77ebfb7891ab04d650e85bee13eda685d152d91[m
+Author: Ricardo <ricardo.alarcon@outlook.com>
+Date:   Wed May 20 18:05:50 2020 -0500
+
+    cambios de su vida
+
+[33mcommit 1099097c4ec90bac8db0a8261df846c6ed01b48d[m
+Author: Ricardo <ricardo.alarcon@outlook.com>
+Date:   Wed May 20 18:03:29 2020 -0500
+
+    arranco mi proyecto real con html y css
+
+[33mcommit de28621608ca3352e75415c2ee96ff091f3b8428[m
+Author: Ricardo <ricardo.alarcon@outlook.com>
+Date:   Tue May 19 18:05:40 2020 -0500
+
+    cambios para agregar la edad
+
+[33mcommit 16137a8dcc6a08bfaeeb9973469da5d16f1e6d4f[m
+Author: Ricardo <ricardo.alarcon@outlook.com>
+Date:   Tue May 19 17:54:10 2020 -0500
+
+    este es el primer commit del archivo
